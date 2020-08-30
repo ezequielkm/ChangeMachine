@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (CONSOLE-Maquina_de_Troco.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  main.cpp
+  ChangeMachine.vcxproj -> C:\Users\ezequ_p59t3cs\Source\Repos\ChangeMachine\Debug\ChangeMachine.exe
